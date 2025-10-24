@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f0f5;
+}
+
+.your-bot-army {
+  background-color: #e0e0f0; 
+  border: 2px solid #5c6bc0;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.army-list {
+  min-height: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.empty-army {
+  color: #555;
+  font-style: italic;
+  padding: 50px;
+}
+
+.bot-collection-container {
+  border-top: 2px solid #5c6bc0;
+  padding-top: 20px;
+}
+
+.bot-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
