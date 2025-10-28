@@ -1,7 +1,7 @@
 {
   "bots": [
     {
-      "id": 101,
+      "id": "101",
       "name": "wHz-93",
       "health": 94,
       "damage": 20,
@@ -13,7 +13,7 @@
       "updated_at": "2018-10-02T19:55:10.800Z"
     },
     {
-      "id": 102,
+      "id": "102",
       "name": "RyM-66",
       "health": 86,
       "damage": 36,
@@ -25,7 +25,7 @@
       "updated_at": "2018-10-02T19:55:10.827Z"
     },
     {
-      "id": 103,
+      "id": "103",
       "name": "Zor-21",
       "health": 120,
       "damage": 80,
@@ -37,7 +37,7 @@
       "updated_at": "2019-05-15T08:20:00.123Z"
     },
     {
-      "id": 104,
+      "id": "104",
       "name": "Def-Aegis",
       "health": 150,
       "damage": 15,
@@ -49,7 +49,7 @@
       "updated_at": "2020-01-01T10:00:00.000Z"
     },
     {
-      "id": 105,
+      "id": "105",
       "name": "Cap-Nova",
       "health": 100,
       "damage": 60,
@@ -61,7 +61,7 @@
       "updated_at": "2021-03-20T12:30:00.500Z"
     },
     {
-      "id": 106,
+      "id": "106",
       "name": "Witch-Hex",
       "health": 70,
       "damage": 100,
@@ -73,7 +73,7 @@
       "updated_at": "2022-08-01T04:45:00.789Z"
     },
     {
-      "id": 107,
+      "id": "107",
       "name": "Sup-Link",
       "health": 80,
       "damage": 25,
@@ -97,7 +97,7 @@
       "updated_at": "2023-11-05T20:30:40.500Z"
     },
     {
-      "id": 109,
+      "id": "109",
       "name": "Ass-Blast",
       "health": 110,
       "damage": 95,
@@ -109,7 +109,7 @@
       "updated_at": "2024-01-10T15:00:00.000Z"
     },
     {
-      "id": 110,
+      "id": "110",
       "name": "Def-Wall",
       "health": 160,
       "damage": 5,
